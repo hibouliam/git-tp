@@ -153,7 +153,9 @@
 ![image](https://github.com/hibouliam/git-tp/assets/166120998/5ba07beb-f3e2-44c8-9129-894a9621aa72)
 ![image](https://github.com/hibouliam/git-tp/assets/166120998/fc5683bb-f653-4080-b794-ddda08f9428f)
 
-## On modifie
+## On supprime le fichier car la modification ne supprime le fichier car quand on le renome cela ne le supprime pas mais le rajoute dans le git
+![image](https://github.com/hibouliam/git-tp/assets/166120998/73a8755d-e629-4d98-af53-a9cce8801af9)
+
 
  
  
